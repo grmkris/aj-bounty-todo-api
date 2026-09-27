@@ -1,0 +1,15 @@
+{
+  "name": "aj-bounty-todo-api",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "bun test"
+  },
+  "dependencies": {
+    "hono": "^4.9.0"
+  },
+  "devDependencies": {
+    "bun-types": "^1.2.0",
+    "typescript": "^5.9.0"
+  }
+}
